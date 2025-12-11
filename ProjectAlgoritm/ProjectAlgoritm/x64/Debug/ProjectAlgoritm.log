@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\admin\source\repos\ProjectAlgoritm\ProjectAlgoritm\Source.cpp(51,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\ProjectAlgoritm\ProjectAlgoritm\Source.cpp(96,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\ProjectAlgoritm\ProjectAlgoritm\Source.cpp(111,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ProjectAlgoritm.vcxproj -> C:\Users\admin\source\repos\ProjectAlgoritm\x64\Debug\ProjectAlgoritm.exe

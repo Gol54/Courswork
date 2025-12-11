@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ProjectAlgoritm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36FF617-3182-4252-8C75-C65418D43B7B}|ProjectAlgoritm\\ProjectAlgoritm.vcxproj|C:\\Users\\admin\\source\\repos\\ProjectAlgoritm\\ProjectAlgoritm\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E36FF617-3182-4252-8C75-C65418D43B7B}|ProjectAlgoritm\\ProjectAlgoritm.vcxproj|solutionrelative:ProjectAlgoritm\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProjectAlgoritm\\ProjectAlgoritm\\Source.cpp",
+              "RelativeDocumentMoniker": "ProjectAlgoritm\\Source.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProjectAlgoritm\\ProjectAlgoritm\\Source.cpp",
+              "RelativeToolTip": "ProjectAlgoritm\\Source.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAN4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T07:21:16.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
